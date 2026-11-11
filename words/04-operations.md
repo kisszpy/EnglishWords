@@ -1,0 +1,109 @@
+# 04 — 操作与流程
+
+| English | 中文 |
+|---|---|
+| add | 添加；相加 |
+| apply | 应用；适用 |
+| assign | 赋值；分配 |
+| begin | 开始 |
+| break | 跳出循环；中断 |
+| build | 构建 |
+| calculate | 计算 |
+| call | 调用 |
+| cancel | 取消 |
+| check | 检查 |
+| choose | 选择 |
+| close | 关闭 |
+| compare | 比较 |
+| connect | 连接 |
+| continue | 继续；继续循环 |
+| copy | 复制 |
+| create | 创建 |
+| delete | 删除 |
+| determine | 确定；判定 |
+| disable | 禁用 |
+| display | 显示 |
+| download | 下载 |
+| enable | 启用 |
+| end | 结束 |
+| execute | 执行 |
+| exit | 退出 |
+| expand | 展开；扩展 |
+| fetch | 获取；取回 |
+| filter | 过滤；筛选 |
+| find | 查找；发现 |
+| finish | 完成 |
+| follow | 遵循；跟随 |
+| generate | 生成 |
+| get | 获取；得到 |
+| handle | 处理；管理 |
+| initialize | 初始化 |
+| insert | 插入 |
+| install | 安装 |
+| iterate | 迭代；遍历 |
+| join | 连接；加入 |
+| launch | 启动 |
+| load | 加载 |
+| merge | 合并 |
+| modify | 修改 |
+| move | 移动；转移所有权 |
+| open | 打开 |
+| parse | 解析 |
+| pass | 传递；通过 |
+| print | 打印；输出 |
+| process | 处理；进程 |
+| push | 推入；添加到末尾 |
+| read | 读取 |
+| receive | 接收 |
+| remove | 移除 |
+| replace | 替换 |
+| return | 返回 |
+| run | 运行；执行 |
+| save | 保存 |
+| search | 搜索 |
+| send | 发送 |
+| set | 设置；集合 |
+| skip | 跳过 |
+| start | 开始；启动 |
+| stop | 停止 |
+| store | 存储 |
+| submit | 提交 |
+| take | 获取；取走 |
+| test | 测试 |
+| update | 更新 |
+| use | 使用 |
+| validate | 验证；校验 |
+| wait | 等待 |
+| write | 写入 |
+| append | 追加 |
+| attach | 附加；连接 |
+| convert | 转换 |
+| detach | 分离；解除连接 |
+| drop | 丢弃；释放 |
+| emit | 发出；生成事件 |
+| evaluate | 求值；评估 |
+| import | 导入 |
+| export | 导出 |
+| map | 映射；转换每个元素 |
+| mutate | 修改；改变 |
+| poll | 轮询 |
+| pop | 弹出；移除末尾元素 |
+| prepend | 前置；添加到开头 |
+| pull | 拉取 |
+| push back | 添加到末尾 |
+| remove from | 从……移除 |
+| reset | 重置 |
+| resolve | 解析；解决；确定结果 |
+| retry | 重试 |
+| rollback | 回滚 |
+| select | 选择；选取 |
+| sort | 排序 |
+| split | 拆分 |
+| truncate | 截断 |
+| unwrap | 解包；取出封装值 |
+| write to | 写入到 |
+| call site | 调用位置 |
+| control flow | 控制流 |
+| iteration | 迭代；遍历 |
+| loop over | 遍历 |
+| side effect | 副作用 |
