@@ -18,7 +18,7 @@
 | 64 | doormat | /ˈdɔːrmæt/ 名词 | 门垫；擦鞋垫。 | Wipe your shoes on the doormat, please. <br>请在门垫上擦擦鞋。 |
 | 65 | drawer | /drɔːr/ 名词 | 抽屉。 | The scissors are in the top drawer. <br>剪刀在最上面的抽屉里。 |
 | 66 | driveway | /ˈdraɪvweɪ/ 名词 | 私人车道；通往住宅的车道。 | Don't park in front of our driveway. <br>别把车停在我们家的车道前。 |
-| 67 | fence | /fენს/ 名词、动词 | 栅栏；围栏；用栅栏围住。 | They painted the fence white last weekend. <br>他们上周末把栅栏漆成了白色。 |
+| 67 | fence | /fɛns/ 名词、动词 | 栅栏；围栏；用栅栏围住。 | They painted the fence white last weekend. <br>他们上周末把栅栏漆成了白色。 |
 | 68 | floor | /flɔːr/ 名词 | 地板；楼层。 | Please leave your shoes by the door, not on the living-room floor. <br>请把鞋放在门边，不要放在客厅地板上。 |
 | 69 | furniture | /ˈfɜːrnɪtʃər/ 名词 | 家具；不可数，通常不说 `furnitures`。 | We bought some furniture for the new house. <br>我们为新家买了一些家具。 |
 | 70 | garage | /ɡəˈrɑːʒ/ 名词 | 车库；汽车修理厂。 | He keeps his bicycle in the garage. <br>他把自行车放在车库里。 |
@@ -31,7 +31,7 @@
 | 77 | laundry | /ˈlɔːndri/ 名词 | 待洗或刚洗好的衣物；洗衣。 | I'll do the laundry after I get home. <br>我到家后会洗衣服。 |
 | 78 | living room | /ˈlɪvɪŋ ruːm/ 名词 | 客厅；起居室。 | We usually read or talk in the living room. <br>我们通常在客厅看书或聊天。 |
 | 79 | mattress | /ˈmætrəs/ 名词 | 床垫。 | This mattress is too soft for my back. <br>这个床垫对我的腰来说太软了。 |
-| 80 | mirror | /ˈmɪrər/ 名词 | 镜子；反映。 | She checked her hair in the mirror. <br>她照了照镜子整理头发。 |
+| 80 | mirror | /ˈmɪrər/ 名词 | ��子；反映。 | She checked her hair in the mirror. <br>她照了照镜子整理头发。 |
 | 81 | neighbor | /ˈneɪbər/ 名词 | 邻居。英式拼法为 `neighbour`。 | Our neighbor brought us some fresh apples. <br>邻居给我们送来了一些新鲜苹果。 |
 | 82 | oven | /ˈʌvən/ 名词 | 烤箱；烤炉。 | Preheat the oven to 180 degrees. <br>把烤箱预热到 180 度。 |
 | 83 | parking | /ˈpɑːrkɪŋ/ 名词 | 停车；停车位。 | Is parking available near the building? <br>这栋楼附近有停车位吗？ |
@@ -47,7 +47,7 @@
 | 93 | tidy | /ˈtaɪdi/ 形容词、动词 | 整洁的；整理。`tidy up` 收拾整齐。 | Please tidy your room before your friends arrive. <br>朋友到之前请把房间收拾整齐。 |
 | 94 | towel | /ˈtaʊəl/ 名词 | 毛巾；浴巾。 | Hang the wet towel outside to dry. <br>把湿毛巾挂到外面晾干。 |
 | 95 | trash | /træʃ/ 名词、动词 | 垃圾；废物；丢弃。英式英语常用 `rubbish`。 | Please take the trash out before it smells. <br>垃圾发臭前请把它拿出去。 |
-| 96 | vacuum | /ˈv��kjuːm/ 名词、动词 | 真空；吸尘器；用吸尘器清扫。 | I vacuum the carpet once a week. <br>我每周用吸尘器清扫一次地毯。 |
+| 96 | vacuum | /ˈvækjuːm/ 名词、动词 | 真空；吸尘器；用吸尘器清扫。 | I vacuum the carpet once a week. <br>我每周用吸尘器清扫一次地毯。 |
 | 97 | wash | /wɑːʃ/ 动词、名词 | 洗；清洗；洗涤。`wash the dishes` 洗碗。 | Wash your hands before you prepare the food. <br>准备食物前要洗手。 |
 | 98 | window | /ˈwɪndoʊ/ 名词 | 窗户；窗口；时间段。 | Open the window to let in some fresh air. <br>打开窗户，让新鲜空气进来。 |
 | 99 | yard | /jɑːrd/ 名词 | 院子；庭院；码（长度单位）。 | The dog is running around in the yard. <br>狗正在院子里跑来跑去。 |
